@@ -1,7 +1,7 @@
 # OSS PIPE
 
-oss_pipe 是 rust 编写的文件迁移工具，旨在支撑大规模的文件迁移场景。相比 java 或 golang 构建的同类型产品，借助 rust
-语言的优势，oss_pipe 具备无 GC、高并发、部署便利、OOM 风险低等优势。
+oss-pipe 是 rust 编写的文件迁移工具，旨在支撑大规模的文件迁移场景。相比 java 或 golang 构建的同类型产品，借助 rust
+语言的优势，oss-pipe 具备无 GC、高并发、部署便利、OOM 风险低等优势。
 
 ## 主要功能
 

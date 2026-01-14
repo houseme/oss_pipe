@@ -5,6 +5,10 @@ edition = "2021"
 license = "Apache-2.0"
 repository = "https://github.com/jd-opensource/oss_pipe"
 
+[[bin]]
+name = "oss_pipe"
+path = "src/main.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
